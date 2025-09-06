@@ -1,0 +1,22 @@
+[
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "summary": "Analyze datasets, build predictive models and visualize insights for business decisions.",
+    "skills": ["Python", "Statistics", "SQL", "Data Visualization", "ML basics"],
+    "resources": [
+      {"title":"Intro to Data Science - Coursera","url":"https://www.coursera.org/learn/data-science-project"},
+      {"title":"Kaggle: Python Course","url":"https://www.kaggle.com/learn/python"}
+    ]
+  },
+  {
+    "id": "frontend_dev",
+    "title": "Frontend Developer",
+    "summary": "Build user-facing web interfaces using HTML, CSS, JavaScript and modern frameworks.",
+    "skills": ["HTML/CSS", "JavaScript", "React", "Web performance", "Accessibility"],
+    "resources": [
+      {"title":"freeCodeCamp - Front End Development","url":"https://www.freecodecamp.org/"},
+      {"title":"React Docs","url":"https://reactjs.org/docs/getting-started.html"}
+    ]
+  }
+]
