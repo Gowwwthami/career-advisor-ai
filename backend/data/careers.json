@@ -1,12 +1,82 @@
 [
   {
-    "id": "data_scientist",
-    "title": "Data Scientist",
-    "summary": "Analyze datasets, build predictive models and visualize insights for business decisions.",
-    "skills": ["Python", "Statistics", "SQL", "Data Visualization", "ML basics"],
+    "id": "data_entry_specialist",
+    "title": "Data Entry Specialist",
+    "summary": "Accurately input and manage data in digital systems, ensuring quality and organization of information.",
+    "skills": ["Typing Speed", "Attention to Detail", "MS Office/Google Workspace", "Basic Spreadsheets", "Time Management"],
     "resources": [
-      {"title":"Intro to Data Science - Coursera","url":"https://www.coursera.org/learn/data-science-project"},
-      {"title":"Kaggle: Python Course","url":"https://www.kaggle.com/learn/python"}
+      {"title": "Learn Touch Typing - TypingClub", "url": "https://www.typingclub.com/"},
+      {"title": "Google Sheets Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=1CDsKk7aXMQ"}
+    ]
+  },
+  {
+    "id": "customer_service_rep",
+    "title": "Customer Service Representative",
+    "summary": "Assist customers with inquiries, resolve issues, and provide information about products and services.",
+    "skills": ["Communication", "Empathy", "Problem-Solving", "Patience", "CRM Software"],
+    "resources": [
+      {"title": "Customer Service Fundamentals - LinkedIn Learning", "url": "https://www.linkedin.com/learning/customer-service-foundations"},
+      {"title": "Zendesk User Guide", "url": "https://support.zendesk.com/hc/en-us/articles/4408826547098"}
+    ]
+  },
+  {
+    "id": "social_media_assistant",
+    "title": "Social Media Assistant",
+    "summary": "Support the creation and scheduling of content, engage with followers, and monitor social media channels.",
+    "skills": ["Content Creation", "Copywriting", "Scheduling Tools", "Trend Awareness", "Analytics Basics"],
+    "resources": [
+      {"title": "Meta Blueprint: Social Media Marketing", "url": "https://www.facebookblueprint.com/"},
+      {"title": "Hootsuite Academy", "url": "https://education.hootsuite.com/"}
+    ]
+  },
+  {
+    "id": "junior_web_dev",
+    "title": "Junior Web Developer",
+    "summary": "Assist in building and maintaining websites using fundamental front-end and back-end technologies.",
+    "skills": ["HTML/CSS", "JavaScript", "Basic Git", "Responsive Design", "Problem Solving"],
+    "resources": [
+      {"title": "The Odin Project", "url": "https://www.theodinproject.com/"},
+      {"title": "MDN Web Docs", "url": "https://developer.mozilla.org/en-US/"}
+    ]
+  },
+  {
+    "id": "it_support_specialist",
+    "title": "IT Support Specialist",
+    "summary": "Diagnose and resolve technical hardware and software issues for end-users within an organization.",
+    "skills": ["Troubleshooting", "Hardware Knowledge", "Operating Systems", "Ticketing Systems", "Customer Support"],
+    "resources": [
+      {"title": "Google IT Support Professional Certificate", "url": "https://www.coursera.org/professional-certificates/google-it-support"},
+      {"title": "Professor Messer IT Fundamentals", "url": "https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-training-course/"}
+    ]
+  },
+  {
+    "id": "digital_marketing_specialist",
+    "title": "Digital Marketing Specialist",
+    "summary": "Develop and execute online marketing campaigns across channels like SEO, PPC, email, and social media.",
+    "skills": ["SEO/SEM", "Google Analytics", "Content Marketing", "Campaign Management", "Data Analysis"],
+    "resources": [
+      {"title": "Google Digital Garage", "url": "https://learndigital.withgoogle.com/digitalgarage/"},
+      {"title": "HubSpot Academy", "url": "https://academy.hubspot.com/"}
+    ]
+  },
+  {
+    "id": "project_coordinator",
+    "title": "Project Coordinator",
+    "summary": "Support project managers with planning, scheduling, tracking, and reporting on project progress.",
+    "skills": ["Organization", "Communication", "Basic Project Management", "MS Project/Jira", "Documentation"],
+    "resources": [
+      {"title": "Project Management Institute (PMI)", "url": "https://www.pmi.org/"},
+      {"title": "Introduction to Project Management - Coursera", "url": "https://www.coursera.org/learn/introduction-to-project-management"}
+    ]
+  },
+  {
+    "id": "accounting_clerk",
+    "title": "Accounting Clerk",
+    "summary": "Perform routine financial tasks including recording transactions, processing invoices, and reconciling statements.",
+    "skills": ["Attention to Detail", "Basic Bookkeeping", "Math Skills", "Accounting Software", "Data Entry"],
+    "resources": [
+      {"title": "Accounting Fundamentals - edX", "url": "https://www.edx.org/learn/accounting"},
+      {"title": "QuickBooks Online Tutorial", "url": "https://quickbooks.intuit.com/learn-support/en-us"}
     ]
   },
   {
@@ -15,8 +85,108 @@
     "summary": "Build user-facing web interfaces using HTML, CSS, JavaScript and modern frameworks.",
     "skills": ["HTML/CSS", "JavaScript", "React", "Web performance", "Accessibility"],
     "resources": [
-      {"title":"freeCodeCamp - Front End Development","url":"https://www.freecodecamp.org/"},
-      {"title":"React Docs","url":"https://reactjs.org/docs/getting-started.html"}
+      {"title": "freeCodeCamp - Front End Development", "url": "https://www.freecodecamp.org/"},
+      {"title": "React Docs", "url": "https://reactjs.org/docs/getting-started.html"}
+    ]
+  },
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "summary": "Analyze datasets, build predictive models and visualize insights for business decisions.",
+    "skills": ["Python", "Statistics", "SQL", "Data Visualization", "ML basics"],
+    "resources": [
+      {"title": "Intro to Data Science - Coursera", "url": "https://www.coursera.org/learn/data-science-project"},
+      {"title": "Kaggle: Python Course", "url": "https://www.kaggle.com/learn/python"}
+    ]
+  },
+  {
+    "id": "devops_engineer",
+    "title": "DevOps Engineer",
+    "summary": "Automate and optimize software development lifecycle, from code integration to deployment and monitoring.",
+    "skills": ["CI/CD Pipelines", "Cloud Platforms (AWS/Azure/GCP)", "Containerization (Docker/K8s)", "Infrastructure as Code", "Monitoring & Logging"],
+    "resources": [
+      {"title": "DevOps Bootcamp", "url": "https://www.youtube.com/watch?v=OXE2a8dqIAI"},
+      {"title": "AWS Cloud Practitioner Essentials", "url": "https://www.aws.training/Details/eLearning?id=60697"}
+    ]
+  },
+  {
+    "id": "ux_ui_designer",
+    "title": "UX/UI Designer",
+    "summary": "Design the user experience and interface for digital products, focusing on usability, aesthetics, and function.",
+    "skills": ["User Research", "Wireframing & Prototyping", "UI Design Principles", "Figma/Sketch", "Usability Testing"],
+    "resources": [
+      {"title": "Google UX Design Professional Certificate", "url": "https://www.coursera.org/professional-certificates/google-ux-design"},
+      {"title": "Figma for Beginners", "url": "https://www.figma.com/resources/learn-design/"}
+    ]
+  },
+  {
+    "id": "product_manager",
+    "title": "Product Manager",
+    "summary": "Define the product vision, gather requirements, and guide cross-functional teams to build successful products.",
+    "skills": ["Market Research", "Product Strategy", "Prioritization", "Stakeholder Management", "Agile/Scrum"],
+    "resources": [
+      {"title": "Inspired: How to Create Tech Products Customers Love", "url": "https://www.productplan.com/learn/inspired-book-summary/"},
+      {"title": "Product School", "url": "https://www.productschool.com/blog/"}
+    ]
+  },
+  {
+    "id": "cybersecurity_analyst",
+    "title": "Cybersecurity Analyst",
+    "summary": "Protect an organization's systems and networks by monitoring for security breaches and investigating violations.",
+    "skills": ["Network Security", "Threat Analysis", "SIEM Tools", "Incident Response", "Security Frameworks"],
+    "resources": [
+      {"title": "Cybersecurity Essentials - Cisco", "url": "https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials"},
+      {"title": "TryHackMe", "url": "https://tryhackme.com/"}
+    ]
+  },
+  {
+    "id": "technical_lead",
+    "title": "Technical Lead / Engineering Manager",
+    "summary": "Lead a team of developers, make high-level design choices, and manage technical delivery and mentorship.",
+    "skills": ["Software Architecture", "Team Leadership", "Project Planning", "Code Review", "Mentoring"],
+    "resources": [
+      {"title": "The Manager's Path", "url": "https://www.oreilly.com/library/view/the-managers-path/9781491973882/"},
+      {"title": "Software Architecture Patterns", "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/"}
+    ]
+  },
+  {
+    "id": "data_engineer",
+    "title": "Data Engineer",
+    "summary": "Design, build, and maintain the data architecture and pipelines that enable large-scale data analysis.",
+    "skills": ["Advanced SQL", "Big Data Tech (Spark/Hadoop)", "Data Warehousing", "ETL Processes", "Python/Java/Scala"],
+    "resources": [
+      {"title": "Data Engineering Zoomcamp", "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"},
+      {"title": "Apache Spark Official Documentation", "url": "https://spark.apache.org/docs/latest/"}
+    ]
+  },
+  {
+    "id": "cloud_architect",
+    "title": "Cloud Architect",
+    "summary": "Design and implement cloud computing strategies, ensuring scalability, reliability, and security.",
+    "skills": ["Cloud Security", "System Design", "Cost Optimization", "Multi-Cloud Strategy", "Networking"],
+    "resources": [
+      {"title": "AWS Well-Architected Framework", "url": "https://aws.amazon.com/architecture/well-architected/"},
+      {"title": "Microsoft Cloud Adoption Framework", "url": "https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/"}
+    ]
+  },
+  {
+    "id": "ai_research_scientist",
+    "title": "AI Research Scientist",
+    "summary": "Conduct cutting-edge research to advance the fields of machine learning and artificial intelligence.",
+    "skills": ["Advanced Mathematics", "Deep Learning Research", "PyTorch/TensorFlow", "Academic Publishing", "Algorithm Design"],
+    "resources": [
+      {"title": "Deep Learning Specialization - deeplearning.ai", "url": "https://www.coursera.org/specializations/deep-learning"},
+      {"title": "arXiv.org (CS.LG)", "url": "https://arxiv.org/list/cs.LG/recent"}
+    ]
+  },
+  {
+    "id": "cto",
+    "title": "Chief Technology Officer (CTO)",
+    "summary": "Set the company's technical vision, lead technology teams, and make executive decisions on technology investments.",
+    "skills": ["Strategic Planning", "Budgeting & Finance", "Executive Leadership", "Technology Evangelism", "Business Acumen"],
+    "resources": [
+      {"title": "The CTO's Guide to Code Quality", "url": "https://www.oreilly.com/radar/the-ctos-guide-to-code-quality/"},
+      {"title": "Harvard Business Review - Leadership", "url": "https://hbr.org/topic/leadership"}
     ]
   }
 ]
